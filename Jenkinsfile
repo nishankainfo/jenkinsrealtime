@@ -22,10 +22,8 @@ pipeline{
 		{
 		  steps
 		  {
-		  
 		   sh 'test'
 		  }
 		}
-		
 	  }
 	}
