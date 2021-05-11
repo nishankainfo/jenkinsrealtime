@@ -22,7 +22,7 @@ pipeline{
 		{
 		  steps
 		  {
-		   sh 'test'
+		   sh 'mvn test'
 		  }
 		}
 	  }
